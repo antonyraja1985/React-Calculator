@@ -1,0 +1,17 @@
+.container {
+  width: 30%;
+  margin: auto;
+  box-shadow: 0 0 10px black;
+  height: 420px;
+  margin-top: 25px;
+}
+
+.flexContainer {
+  display: flex;
+  flex-direction: column;
+  margin-top: 5px;
+  align-items: center;
+}
+
+
+
